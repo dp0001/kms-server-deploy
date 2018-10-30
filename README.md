@@ -1,3 +1,4 @@
+如果一键脚本不能激活的系统，请手动激活。GVLK密钥可以去微软这里https://docs.microsoft.com/zh-cn/windows-server/get-started/kmsclientkeys 查看最新的。
 # kms-server-deploy
 
 ## 一键搭建kms激活服务端和Windows客户端一键激活脚本
